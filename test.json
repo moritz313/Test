@@ -1,0 +1,14 @@
+[
+            {
+                "uuid": "d16b73e4-acc4-4e67-8c4f-d92454293030",
+                "example-boolean-key": "true",
+                "example-string-key": "Hello",
+                "example-int-key": "1234"
+            },
+            {
+                "uuid": "ExampleUUID2",
+                "example-boolean-key2": "true",
+                "example-string-key2": "Woooooah! No one will have carrot!",
+                "example-int-key2": "4321"
+            }
+        ]
